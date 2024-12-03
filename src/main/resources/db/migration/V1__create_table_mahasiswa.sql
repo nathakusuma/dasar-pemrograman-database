@@ -1,0 +1,4 @@
+CREATE TABLE Mahasiswa (
+    NIM VARCHAR(15) PRIMARY KEY,
+    Nama VARCHAR(255) NOT NULL,
+);
